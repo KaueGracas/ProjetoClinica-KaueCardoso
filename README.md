@@ -1,6 +1,6 @@
 # Projeto Clínica Odontológica 🦷
 
-Este é um sistema web desenvolvido como Trabalho de Conclusão de Curso (TCC) para o curso técnico de Análise e Desenvolvimento de Sistemas, com foco no gerenciamento de uma clínica odontológica. O projeto permite o agendamento de consultas, cadastro de pacientes e profissionais, envio de e-mails automáticos, além de relatórios personalizados.
+Este é um sistema web desenvolvido como projeto de extensão para o curso de CC, com foco no gerenciamento de uma clínica odontológica. O projeto permite o agendamento de consultas, cadastro de pacientes e profissionais, envio de e-mails automáticos, além de relatórios personalizados.
 
 ## 👨‍💻 Tecnologias Utilizadas
 
